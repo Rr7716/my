@@ -3596,4 +3596,6 @@ promiscuous 不规则
 intersection 相交
 metrics 指标
 search criteria 查询条件
-      
+restore 恢复
+patches 补丁
+integrate 整合
